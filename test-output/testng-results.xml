@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34703" started-at="2019-02-11T13:14:39Z" finished-at="2019-02-11T13:15:14Z">
+    <groups>
+    </groups>
+    <test name="Abhi bus login" duration-ms="34703" started-at="2019-02-11T13:14:39Z" finished-at="2019-02-11T13:15:14Z">
+      <class name="com.qa.TestScripts.LoginPageTest">
+        <test-method status="PASS" signature="launchBrowserTest()[pri:0, instance:com.qa.TestScripts.LoginPageTest@7a3d45bd]" name="launchBrowserTest" is-config="true" duration-ms="15246" started-at="2019-02-11T13:14:39Z" finished-at="2019-02-11T13:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserTest -->
+        <test-method status="PASS" signature="homePagetest()[pri:0, instance:com.qa.TestScripts.LoginPageTest@7a3d45bd]" name="homePagetest" duration-ms="18113" started-at="2019-02-11T13:14:54Z" finished-at="2019-02-11T13:15:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePagetest -->
+        <test-method status="PASS" signature="closeBrowserTest()[pri:0, instance:com.qa.TestScripts.LoginPageTest@7a3d45bd]" name="closeBrowserTest" is-config="true" duration-ms="1316" started-at="2019-02-11T13:15:12Z" finished-at="2019-02-11T13:15:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowserTest -->
+      </class> <!-- com.qa.TestScripts.LoginPageTest -->
+    </test> <!-- Abhi bus login -->
+  </suite> <!-- Suite -->
+</testng-results>

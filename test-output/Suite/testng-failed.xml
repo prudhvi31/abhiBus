@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Abhi bus login(failed)">
+    <classes>
+      <class name="com.qa.TestScripts.LoginPageTest">
+        <methods>
+          <include name="closeBrowserTest"/>
+          <include name="homePagetest"/>
+          <include name="launchBrowserTest"/>
+        </methods>
+      </class> <!-- com.qa.TestScripts.LoginPageTest -->
+    </classes>
+  </test> <!-- Abhi bus login(failed) -->
+</suite> <!-- Failed suite [Suite] -->
